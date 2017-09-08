@@ -1,0 +1,11 @@
+from flask import F
+lask
+app = Flask("First App")
+
+@app.route('/')
+def index():
+	return "Yes it is workign!!"
+
+if __name__=="main":
+	app.run()
+
