@@ -8,3 +8,6 @@ git config --global --add mergetool.kdiff3.trustExitCode false
 git config --global --add diff.guitool kdiff3
 git config --global --add difftool.kdiff3.path "/usr/bin/kdiff3"
 git config --global --add difftool.kdiff3.trustExitCode false
+
+
+https://cloud.digitalocean.com/
